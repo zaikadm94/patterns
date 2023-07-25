@@ -25,6 +25,7 @@ public class CardDeliveryApplicationTest {
     void setup() {
         open("http://localhost:9999/");
     }
+
     @Test
 
     public void validValueTest() {
@@ -51,7 +52,6 @@ public class CardDeliveryApplicationTest {
 
 
     }
-
 
 
 }
